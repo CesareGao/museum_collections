@@ -31,3 +31,14 @@ These are some patterns we want to analyze. We may modify them as the project pr
 - Dimensions: the dimension of each object.
 - Credit Line: the donators of each object.
 - Classification: the category of material each objects belongs to.
+
+
+## Tentative Timeline
+Steps and Outlines | Roughly Time Estimate
+------------------ | ---------------------
+Data Cleanup | Set up Python process: 3 weeks
+Data Cleanup | Debug and increasing effectiveness: 1 month
+Transformation | written in PPT format : 1 week
+Featuring Engineering | Get the results from Data Cleanup and dicussion: 2 weeks
+Statistical Summary | Calculate the datas from step 1: 1 week
+Visualization | Use the Calculation results, doing plot: 1 week
