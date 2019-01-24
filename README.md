@@ -1,2 +1,33 @@
 # analysis_of_museum_collections
-# 
+
+## Team Member:
+
+- Yan Gao
+- Tianxin Deng
+
+## Project Objective:
+
+We gonna make a full analysis on the dataset of [The Metropolitan Museum of Art Open Access]( https://github.com/metmuseum/openaccess/ ). We intend to clean the missing document, duplicated data and letter-number mixed data in this data set. Then we plan to solve the problems like these:
+
+- The proportion of different countries' collections changes with time, according to time and country.
+- The cultural bloom era in each country, according to collection amount and time.
+- The evidence of war or natural disaster, according to rapid decrease of production.
+
+These are some patterns we want to analyze. We may modify them as the project proceeds. At last we will visualize the result with proper tools.
+
+## Data Attributes:
+
+- Object Number/Object ID: a unique number sequence for each object in museum.
+- Is Highlight: a bool to show whether an object is highlighted or not.
+- Is Public domain: a bool to show whether an object is displayed in public domain or not.
+- Department: the department the object belongs to.
+- Object name: how the object called.
+- Title: detailed object name with discription.
+- Culture/Period/Dynasty/Reign: the background of each object.
+- Portfolio: the portfolio the object belongs to.
+- Artist Pole/Artist Prefix/Artist Display Name/Artist Display Bio/Artist Suffix/Artist Alpha Sort/Artist Nationality/Artist Begin Date/Artist End Date: all detailed artist background.
+- Object Date/Object Begin Date/Object End Date: the display period of each object.
+- Medium: the materials using to made the items.
+- Dimensions: the dimension of each object.
+- Credit Line: the donators of each object.
+- Classification: the category of material each objects belongs to.
