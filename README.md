@@ -32,8 +32,8 @@ These are some patterns we want to analyze. We may modify them as the project pr
 - Credit Line: the donators of each object.
 - Classification: the category of material each objects belongs to.
 
-
 ## Tentative Timeline
+
 Steps and Outlines | Roughly Time Estimate
 ------------------ | ---------------------
 Data Cleanup | Set up Python process: 3 weeks
