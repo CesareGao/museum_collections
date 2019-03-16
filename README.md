@@ -42,3 +42,6 @@ Transformation | written in PPT format : 1 week
 Featuring Engineering | Get the results from Data Cleanup and dicussion: 2 weeks
 Statistical Summary | Calculate the datas from step 1: 1 week
 Visualization | Use the Calculation results, doing plot: 1 week
+
+## Project Binder link
+[analysis_of_museum_collections ]( https://mybinder.org/v2/gh/CesareGao/analysis_of_museum_collections/master?filepath=analysis_of_museum_collection.ipynb )
