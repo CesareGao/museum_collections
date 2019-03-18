@@ -45,3 +45,6 @@ Visualization | Use the Calculation results, doing plot: 1 week
 
 ## Project Binder link
 [analysis_of_museum_collections ]( https://mybinder.org/v2/gh/CesareGao/analysis_of_museum_collections/master?filepath=analysis_of_museum_collection.ipynb )
+
+## Project Running result (HTML)
+[analysis_of_museum_collections.html]( https://github.com/CesareGao/analysis_of_museum_collections/blob/master/analysis_of_museum_collection.html )
