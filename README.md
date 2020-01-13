@@ -1,11 +1,12 @@
-# analysis_of_museum_collections
+# Analysis of Museum Collections
 
-## Team Member:
+## Coworkers
 
-- Yan Gao
-- Tianxin Deng
+Tianxin Deng
 
 ## Project Objective:
+
+This is a project we want to do data cleaning and statistical analysis to a large dataset. We intend to visualize the patterns in the data and explain them.
 
 We gonna make a full analysis on the dataset of [The Metropolitan Museum of Art Open Access]( https://github.com/metmuseum/openaccess/ ). We intend to clean the missing document, duplicated data and letter-number mixed data in this data set. Then we plan to solve the problems like these:
 
@@ -32,16 +33,10 @@ These are some patterns we want to analyze. We may modify them as the project pr
 - Credit Line: the donators of each object.
 - Classification: the category of material each objects belongs to.
 
+## Summary
 
-## Tentative Timeline
-Steps and Outlines | Roughly Time Estimate
------------------- | ---------------------
-Data Cleanup | Set up Python process: 3 weeks
-Data Cleanup | Debug and increasing effectiveness: 1 month
-Transformation | written in PPT format : 1 week
-Featuring Engineering | Get the results from Data Cleanup and dicussion: 2 weeks
-Statistical Summary | Calculate the datas from step 1: 1 week
-Visualization | Use the Calculation results, doing plot: 1 week
+- We corrected many misspelled names. But there are so many names in the dataset. Once if there is just a typo, it's really hard to tell which is the right one and the other is a typo.
+- Each time there is a large amount of collections being collected by the museum, there is a history events correspondingly.
 
 ## Project Binder link
 [analysis_of_museum_collections ]( https://mybinder.org/v2/gh/CesareGao/analysis_of_museum_collections/master?filepath=analysis_of_museum_collection.ipynb )
